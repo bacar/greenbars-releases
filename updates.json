@@ -3,9 +3,9 @@
     "{2b1798d3-5bd4-44fa-aaeb-5893365b28e4}": {
       "updates": [
         {
-          "version": "0.4.2",
-          "update_link": "https://github.com/bacar/greenbars-releases/releases/download/v0.4.2/greenbars-0.4.2.xpi",
-          "update_hash": "sha256:39877f9f3a6ac6a9f5d605a19deb405d6305dae124f9c9e5fee5a2bdf72a9fa4"
+          "version": "0.4.3",
+          "update_link": "https://github.com/bacar/greenbars-releases/releases/download/v0.4.3/greenbars-0.4.3.xpi",
+          "update_hash": "sha256:84723cba6ca709842bd97925ce01d2e494de21ef10332fa0685a3b93f8d53f22"
         }
       ]
     }
